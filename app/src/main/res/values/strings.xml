@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MuckjaProject</string>
+    <string name="kakao_app_key">bdf0a39222ab65cb999b1459c112ff87</string>
+    <string name="title_activity_navigation_bar">NavigationBar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
